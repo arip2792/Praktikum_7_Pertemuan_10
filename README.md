@@ -16,8 +16,10 @@ A. ALGORITMA PROGRAM
       Hapus Data (H)
       Cari Data (C)
       Keluar (K)
-4.	Lakukan Sesuai Pilihan Pengguna
-o	Lihat Data (L):
+      
+3. Input Pilihan Pengguna
+   
+>> Lihat Data (L):
 	Jika data_mahasiswa kosong, tampilkan pesan "TIDAK ADA DATA".
 	Jika ada data, tampilkan tabel data mahasiswa.
 o	Tambah Data (T):

@@ -1,8 +1,9 @@
 # Praktikum_7_Pertemuan_10
 
 1.	Mulai Program
-o	Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
-2.	Tampilkan Menu Utama
+      Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
+  	
+3.	Tampilkan Menu Utama
 o	Pilihan menu:
 	Lihat Data (L)
 	Tambah Data (T)
@@ -10,7 +11,7 @@ o	Pilihan menu:
 	Hapus Data (H)
 	Cari Data (C)
 	Keluar (K)
-3.	Lakukan Sesuai Pilihan Pengguna
+4.	Lakukan Sesuai Pilihan Pengguna
 o	Lihat Data (L):
 	Jika data_mahasiswa kosong, tampilkan pesan "TIDAK ADA DATA".
 	Jika ada data, tampilkan tabel data mahasiswa.
@@ -37,5 +38,5 @@ o	Cari Data (C):
 o	Keluar (K):
 	Tampilkan pesan "Keluar dari program".
 	Hentikan program.
-4.	Kembali ke Menu Utama jika pengguna belum memilih "Keluar (K)".
-5.	Selesai Program.
+5.	Kembali ke Menu Utama jika pengguna belum memilih "Keluar (K)".
+6.	Selesai Program.

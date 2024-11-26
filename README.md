@@ -1,8 +1,9 @@
 # Praktikum_7_Pertemuan_10
 
 1.	Mulai Program
-      Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
-  	
+   
+          Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
+  	 
 3.	Tampilkan Menu Utama
 o	Pilihan menu:
 	Lihat Data (L)

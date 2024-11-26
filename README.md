@@ -35,23 +35,39 @@ A. ALGORITMA PROGRAM
 
      Tampilkan pesan "Data berhasil ditambahkan".
 
-o	Ubah Data (U):
-	Minta input NIM yang ingin diubah.
-	Jika NIM ditemukan, minta data baru, hitung ulang Nilai Akhir, dan perbarui dictionary.
-	Jika NIM tidak ditemukan, tampilkan pesan "Data tidak ditemukan".
-o	Hapus Data (H):
-	Minta input NIM yang ingin dihapus.
-	Jika NIM ditemukan, hapus dari dictionary.
-	Jika tidak, tampilkan pesan "Data tidak ditemukan".
-o	Cari Data (C):
-	Minta input NIM yang ingin dicari.
-	Jika NIM ditemukan, tampilkan data mahasiswa tersebut.
-	Jika tidak, tampilkan pesan "Data tidak ditemukan".
-o	Keluar (K):
-	Tampilkan pesan "Keluar dari program".
-	Hentikan program.
-5.	Kembali ke Menu Utama jika pengguna belum memilih "Keluar (K)".
-6.	Selesai Program.
+>> Ubah Data (U):
+
+     Minta input NIM yang ingin diubah.
+     
+     Jika NIM ditemukan, minta data baru, hitung ulang Nilai Akhir, dan perbarui dictionary.
+     
+     Jika NIM tidak ditemukan, tampilkan pesan "Data tidak ditemukan".
+
+>> Hapus Data (H):
+
+     Minta input NIM yang ingin dihapus.
+
+     Jika NIM ditemukan, hapus dari dictionary.
+
+     Jika tidak, tampilkan pesan "Data tidak ditemukan".
+
+>> Cari Data (C):
+
+     Minta input NIM yang ingin dicari.
+     
+     Jika NIM ditemukan, tampilkan data mahasiswa tersebut.
+     
+     Jika tidak, tampilkan pesan "Data tidak ditemukan".
+
+>> Keluar (K):
+
+     Tampilkan pesan "Keluar dari program".
+     
+     Hentikan program.
+     
+4.	Kembali ke Menu Utama jika pengguna belum memilih "Keluar (K)".
+   
+5.	Selesai Program.
 
 
 ![image](https://github.com/user-attachments/assets/e95d0f28-46da-4717-ae4d-4bf604072a6e)

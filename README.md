@@ -79,4 +79,9 @@
 
 *C. CODE PROGRAM DAN PENJELASAN*
 
+![image](https://github.com/user-attachments/assets/b2861a4c-25c2-4bf5-b954-8afd24f7ca26)
+
+![image](https://github.com/user-attachments/assets/2987d597-baf0-4c1b-b8a6-49689d54745e)
+
+
 

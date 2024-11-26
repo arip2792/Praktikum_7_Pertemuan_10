@@ -4,18 +4,18 @@ A. ALGORITMA PROGRAM
 
 1.	Mulai Program
    
-          Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
+   Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
   	 
 2.	Tampilkan Menu Utama
    
    Pilihan menu:
    
-      Lihat Data (L)
-      Tambah Data (T)
-      Ubah Data (U)
-      Hapus Data (H)
-      Cari Data (C)
-      Keluar (K)
+   Lihat Data (L)
+   Tambah Data (T)
+   Ubah Data (U)
+   Hapus Data (H)
+   Cari Data (C)
+   Keluar (K)
       
 3. Input Pilihan Pengguna
    

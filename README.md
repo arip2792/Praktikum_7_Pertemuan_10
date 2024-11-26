@@ -6,14 +6,14 @@ A. ALGORITMA PROGRAM
    
           Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
   	 
-3.	Tampilkan Menu Utama
-o	Pilihan menu:
-	Lihat Data (L)
-	Tambah Data (T)
-	Ubah Data (U)
-	Hapus Data (H)
-	Cari Data (C)
-	Keluar (K)
+2.	Tampilkan Menu Utama
+   Pilihan menu:
+      Lihat Data (L)
+      Tambah Data (T)
+      Ubah Data (U)
+      Hapus Data (H)
+      Cari Data (C)
+      Keluar (K)
 4.	Lakukan Sesuai Pilihan Pengguna
 o	Lihat Data (L):
 	Jika data_mahasiswa kosong, tampilkan pesan "TIDAK ADA DATA".

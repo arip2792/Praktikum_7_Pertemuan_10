@@ -29,9 +29,7 @@ A. ALGORITMA PROGRAM
 
      Minta input NIM, Nama, Nilai Tugas, UTS, dan UAS. 
      
-     Hitung Nilai Akhir dengan rumus:
-
-     Nilai Akhir = (Tugas * 0.3) + (UTS * 0.35) + (UAS * 0.35)
+     Hitung Nilai Akhir dengan rumus : Nilai Akhir = (Tugas * 0.3) + (UTS * 0.35) + (UAS * 0.35)
 
      Simpan data ke dalam dictionary.
 

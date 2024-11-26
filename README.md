@@ -20,7 +20,9 @@ A. ALGORITMA PROGRAM
 3. Input Pilihan Pengguna
    
 >> Lihat Data (L):
+
     Jika data_mahasiswa kosong, tampilkan pesan "TIDAK ADA DATA".
+
     Jika ada data, tampilkan tabel data mahasiswa.
 
 o	Tambah Data (T):

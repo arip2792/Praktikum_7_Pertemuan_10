@@ -1,5 +1,7 @@
 # Praktikum_7_Pertemuan_10
 
+A. ALGORITMA PROGRAM
+
 1.	Mulai Program
    
           Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
@@ -41,3 +43,7 @@ o	Keluar (K):
 	Hentikan program.
 5.	Kembali ke Menu Utama jika pengguna belum memilih "Keluar (K)".
 6.	Selesai Program.
+
+
+![image](https://github.com/user-attachments/assets/e95d0f28-46da-4717-ae4d-4bf604072a6e)
+

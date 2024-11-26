@@ -73,5 +73,6 @@ A. ALGORITMA PROGRAM
 
 B. FLOWCHART
 
-![image](https://github.com/user-attachments/assets/e95d0f28-46da-4717-ae4d-4bf604072a6e)
+![image](https://github.com/user-attachments/assets/c89fd72d-053e-46b3-8099-9ad20c1055c1)
+
 

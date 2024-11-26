@@ -25,14 +25,18 @@ A. ALGORITMA PROGRAM
 
     Jika ada data, tampilkan tabel data mahasiswa.
 
-o	Tambah Data (T):
-	Minta input NIM, Nama, Nilai Tugas, UTS, dan UAS.
-	Hitung Nilai Akhir dengan rumus:
-scss
-Copy code
-Nilai Akhir = (Tugas * 0.3) + (UTS * 0.35) + (UAS * 0.35)
-	Simpan data ke dalam dictionary.
-	Tampilkan pesan "Data berhasil ditambahkan".
+>> Tambah Data (T):
+
+     Minta input NIM, Nama, Nilai Tugas, UTS, dan UAS. 
+     
+     Hitung Nilai Akhir dengan rumus:
+
+     Nilai Akhir = (Tugas * 0.3) + (UTS * 0.35) + (UAS * 0.35)
+
+     Simpan data ke dalam dictionary.
+
+     Tampilkan pesan "Data berhasil ditambahkan".
+
 o	Ubah Data (U):
 	Minta input NIM yang ingin diubah.
 	Jika NIM ditemukan, minta data baru, hitung ulang Nilai Akhir, dan perbarui dictionary.

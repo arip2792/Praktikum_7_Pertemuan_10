@@ -7,7 +7,9 @@ A. ALGORITMA PROGRAM
           Inisialisasi dictionary data_mahasiswa kosong untuk menyimpan data mahasiswa.
   	 
 2.	Tampilkan Menu Utama
+   
    Pilihan menu:
+   
       Lihat Data (L)
       Tambah Data (T)
       Ubah Data (U)

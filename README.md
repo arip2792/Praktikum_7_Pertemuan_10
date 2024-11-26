@@ -10,12 +10,12 @@ A. ALGORITMA PROGRAM
    
    Pilihan menu:
    
-    Lihat Data (L)
-    Tambah Data (T)
-    Ubah Data (U)
-    Hapus Data (H)
-    Cari Data (C)
-    Keluar (K)
+     Lihat Data (L)
+     Tambah Data (T)
+     Ubah Data (U)
+     Hapus Data (H)
+     Cari Data (C)
+     Keluar (K)
       
 3. Input Pilihan Pengguna
    

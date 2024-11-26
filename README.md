@@ -69,6 +69,9 @@ A. ALGORITMA PROGRAM
    
 5.	Selesai Program.
 
+#
+
+B. FLOWCHART
 
 ![image](https://github.com/user-attachments/assets/e95d0f28-46da-4717-ae4d-4bf604072a6e)
 

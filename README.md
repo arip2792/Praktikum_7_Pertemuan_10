@@ -1,6 +1,6 @@
 # Praktikum_7_Pertemuan_10
 
-A. *ALGORITMA PROGRAM*
+*A. ALGORITMA PROGRAM*
 
 1.	Mulai Program
    
@@ -71,7 +71,7 @@ A. *ALGORITMA PROGRAM*
 
 #
 
-B. FLOWCHART
+*B. FLOWCHART*
 
 ![image](https://github.com/user-attachments/assets/a472a526-3507-44a6-a26e-b21983d090ae)
 

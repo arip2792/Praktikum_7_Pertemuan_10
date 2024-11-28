@@ -89,10 +89,10 @@ PENJELASAN CODE :
 
 ![image](https://github.com/user-attachments/assets/8688910d-37f4-485a-9c36-55f684da49f4)
 
-Fungsi ini menampilkan daftar nilai mahasiswa.
+>>Fungsi ini menampilkan daftar nilai mahasiswa.
 
-Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
+>>Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
 
-Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
+>>Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
 
-Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.
+>>Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.

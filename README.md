@@ -87,8 +87,8 @@ PENJELASAN CODE :
 
 1. Fungsi Tampilkan Data
 
-def tampilkan_data():  
-    if data_mahasiswa:  
+    def tampilkan_data():  
+            if data_mahasiswa:  
         print("\nDaftar Nilai")  
         print("="*67)  
         print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6} |".format(  

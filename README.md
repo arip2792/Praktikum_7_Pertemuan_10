@@ -93,7 +93,7 @@ PENJELASAN CODE :
 
 >Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
 
->Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
+>Data mahasiswa akan ditampilkan dan nilai akhir ditampilkan dengan dua angka desimal.
 
 >Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.
 
@@ -105,7 +105,7 @@ PENJELASAN CODE :
 
 >Pengguna diminta untuk memasukkan NIM, nama, dan nilai untuk tugas, UTS, dan UAS.
 
->Nilai akhir dihitung berdasarkan bobot yang telah ditentukan (30% untuk tugas, 35% untuk UTS, dan 35% untuk UAS).
+>Nilai akhir dihitung berdasarkan bobot nilai yang telah ditentukan (30% untuk tugas, 35% untuk UTS, dan 35% untuk UAS).
 
 >Data mahasiswa disimpan dalam dictionary data_mahasiswa dengan NIM sebagai kunci dan informasi lainnya sebagai nilai dalam bentuk dictionary.
 
@@ -152,8 +152,6 @@ PENJELASAN CODE :
 6. Loop/perulangan utama
 
 ![image](https://github.com/user-attachments/assets/698e0aea-096e-4d29-abd6-83660a0067fd)
-
->Loop utama ini menjalankan program secara interaktif.
 
 >Pengguna diberikan pilihan untuk melihat, menambah, mengubah, menghapus, atau mencari data mahasiswa, atau keluar dari program.
 

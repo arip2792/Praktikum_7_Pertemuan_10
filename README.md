@@ -87,23 +87,12 @@ PENJELASAN CODE :
 
 1. Fungsi Tampilkan Data
 
-    def tampilkan_data():  
-            if data_mahasiswa:  
-        print("\nDaftar Nilai")  
-        print("="*67)  
-        print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6} |".format(  
-            "NO", "NIM", "NAMA", "TUGAS", "UTS", "UAS", "AKHIR"))  
-        print("="*67)  
-        for i, (nim, data) in enumerate(data_mahasiswa.items(), start=1):  
-            print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6.2f} |".format(  
-                i, nim, data['nama'], data['tugas'], data['uts'], data['uas'], data['akhir']))  
-        print("="*67)  
-    else:  
-        print("\nDaftar Nilai")  
-        print("="*67)  
-        print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6} |".format(  
-            "NO", "NIM", "NAMA", "TUGAS", "UTS", "UAS", "AKHIR"))  
-        print("="*67)  
-        print("|{:^70}|".format("TIDAK ADA DATA"))  
-        print("="*67)
+![image](https://github.com/user-attachments/assets/8688910d-37f4-485a-9c36-55f684da49f4)
 
+Fungsi ini menampilkan daftar nilai mahasiswa.
+
+Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
+
+Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
+
+Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.

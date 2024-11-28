@@ -91,7 +91,13 @@ Fungsi: Mendefinisikan sebuah dictionary kosong bernama data_mahasiswa yang akan
 
      def tampilkan_data():
      
-Fungsi: Mendefinisikan fungsi tampilkan_data yang bertugas untuk menampilkan daftar nilai mahasiswa.     
+Fungsi: Mendefinisikan fungsi tampilkan_data yang bertugas untuk menampilkan daftar nilai mahasiswa.   
 
+     if data_mahasiswa:
 
+Fungsi: Memeriksa apakah data_mahasiswa tidak kosong. Jika ada data, maka akan ditampilkan.
 
+      print("\nDaftar Nilai")  
+      print("="*67) 
+      
+Fungsi: Mencetak header untuk tabel yang akan ditampilkan, memberikan informasi bahwa yang akan ditampilkan adalah daftar nilai.

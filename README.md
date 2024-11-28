@@ -85,19 +85,25 @@
 
 PENJELASAN CODE : 
 
-     data_mahasiswa = {}
+1. Fungsi Tampilkan Data
 
-Fungsi: Mendefinisikan sebuah dictionary kosong bernama data_mahasiswa yang akan digunakan untuk menyimpan data mahasiswa. Di dalam dictionary ini, NIM (Nomor Induk Mahasiswa) akan menjadi kunci, dan informasi mahasiswa lainnya (nama, nilai tugas, UTS, UAS, dan nilai akhir) akan disimpan sebagai nilai.
+def tampilkan_data():  
+    if data_mahasiswa:  
+        print("\nDaftar Nilai")  
+        print("="*67)  
+        print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6} |".format(  
+            "NO", "NIM", "NAMA", "TUGAS", "UTS", "UAS", "AKHIR"))  
+        print("="*67)  
+        for i, (nim, data) in enumerate(data_mahasiswa.items(), start=1):  
+            print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6.2f} |".format(  
+                i, nim, data['nama'], data['tugas'], data['uts'], data['uas'], data['akhir']))  
+        print("="*67)  
+    else:  
+        print("\nDaftar Nilai")  
+        print("="*67)  
+        print("| {:<2} | {:<10} | {:<12} | {:<5} | {:<5} | {:<5} | {:<6} |".format(  
+            "NO", "NIM", "NAMA", "TUGAS", "UTS", "UAS", "AKHIR"))  
+        print("="*67)  
+        print("|{:^70}|".format("TIDAK ADA DATA"))  
+        print("="*67)
 
-     def tampilkan_data():
-     
-Fungsi: Mendefinisikan fungsi tampilkan_data yang bertugas untuk menampilkan daftar nilai mahasiswa.   
-
-     if data_mahasiswa:
-
-Fungsi: Memeriksa apakah data_mahasiswa tidak kosong. Jika ada data, maka akan ditampilkan.
-
-      print("\nDaftar Nilai")  
-      print("="*67) 
-      
-Fungsi: Mencetak header untuk tabel yang akan ditampilkan, memberikan informasi bahwa yang akan ditampilkan adalah daftar nilai.

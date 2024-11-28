@@ -161,5 +161,11 @@ PENJELASAN CODE :
 
 >Jika pengguna memilih untuk keluar, loop dihentikan, dan program berakhir. Jika pilihan tidak valid, program meminta pengguna untuk mencoba lagi.
 
+#
 
+*D. HASIL RUN CODE*
+
+![image](https://github.com/user-attachments/assets/a9691972-a60e-422a-9776-9b388a20aa25)
+
+![image](https://github.com/user-attachments/assets/eebd46ce-06f6-45a7-aa6a-24bb238d254a)
 

@@ -111,3 +111,55 @@ PENJELASAN CODE :
 
 >Setelah data ditambahkan, fungsi mencetak pesan konfirmasi bahwa data berhasil ditambahkan.
 
+3. Fungsi ubah_data()
+
+![image](https://github.com/user-attachments/assets/0bd705d0-44ea-4048-a035-4e10124f4c74)
+
+>Fungsi ini memungkinkan pengguna untuk mengubah data mahasiswa yang sudah ada.
+
+>Pengguna diminta untuk memasukkan NIM mahasiswa yang ingin diubah.
+
+>Jika NIM ditemukan dalam data_mahasiswa, pengguna diminta untuk memasukkan data baru (nama dan nilai).
+
+>Nilai akhir dihitung kembali dan data diperbarui dalam dictionary.
+
+>Jika NIM tidak ditemukan, fungsi mencetak pesan bahwa data tidak ada.
+
+4. Fungsi hapus_data()
+
+![image](https://github.com/user-attachments/assets/ca6c1507-e546-45e0-a052-a4612e5c0e5b)
+
+>Fungsi ini digunakan untuk menghapus data mahasiswa berdasarkan NIM.
+
+>Pengguna diminta untuk memasukkan NIM yang ingin dihapus.
+
+>Jika NIM ditemukan, data mahasiswa dihapus dari dictionary data_mahasiswa, dan fungsi mencetak pesan konfirmasi bahwa data berhasil dihapus.
+
+>Jika NIM tidak ditemukan, fungsi mencetak pesan bahwa data tidak ada.
+
+5. Fungsi cari_data()
+
+![image](https://github.com/user-attachments/assets/ae0c74da-aeed-43aa-8b0d-574400f27494)
+
+>Fungsi ini memungkinkan pengguna untuk mencari data mahasiswa berdasarkan NIM.
+
+>Pengguna diminta untuk memasukkan NIM yang ingin dicari.
+
+>Jika NIM ditemukan, fungsi mencetak semua informasi terkait mahasiswa tersebut, termasuk nilai akhir dengan dua angka desimal.
+
+>Jika NIM tidak ditemukan, fungsi mencetak pesan bahwa data tidak ada.
+
+6. Loop/perulangan utama
+
+![image](https://github.com/user-attachments/assets/698e0aea-096e-4d29-abd6-83660a0067fd)
+
+>Loop utama ini menjalankan program secara interaktif.
+
+>Pengguna diberikan pilihan untuk melihat, menambah, mengubah, menghapus, atau mencari data mahasiswa, atau keluar dari program.
+
+>Input pengguna diproses, dan fungsi yang sesuai dipanggil berdasarkan pilihan yang dimasukkan.
+
+>Jika pengguna memilih untuk keluar, loop dihentikan, dan program berakhir. Jika pilihan tidak valid, program meminta pengguna untuk mencoba lagi.
+
+
+

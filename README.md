@@ -85,5 +85,13 @@
 
 PENJELASAN CODE : 
 
+     data_mahasiswa = {}
+
+Fungsi: Mendefinisikan sebuah dictionary kosong bernama data_mahasiswa yang akan digunakan untuk menyimpan data mahasiswa. Di dalam dictionary ini, NIM (Nomor Induk Mahasiswa) akan menjadi kunci, dan informasi mahasiswa lainnya (nama, nilai tugas, UTS, UAS, dan nilai akhir) akan disimpan sebagai nilai.
+
+     def tampilkan_data():
+     
+Fungsi: Mendefinisikan fungsi tampilkan_data yang bertugas untuk menampilkan daftar nilai mahasiswa.     
+
 
 

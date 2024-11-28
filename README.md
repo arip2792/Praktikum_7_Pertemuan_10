@@ -85,14 +85,29 @@
 
 PENJELASAN CODE : 
 
-1. Fungsi Tampilkan Data
+1. Fungsi tampilkan_data()
 
 ![image](https://github.com/user-attachments/assets/8688910d-37f4-485a-9c36-55f684da49f4)
 
->>Fungsi ini menampilkan daftar nilai mahasiswa.
+>Fungsi ini menampilkan daftar nilai mahasiswa.
 
->>Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
+>Jika data_mahasiswa tidak kosong, fungsi mencetak tabel dengan kolom untuk nomor urut, NIM, nama, nilai tugas, UTS, UAS, dan nilai akhir.
 
->>Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
+>Data mahasiswa ditampilkan dalam format yang rapi, dengan nilai akhir ditampilkan dengan dua angka desimal.
 
->>Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.
+>Jika tidak ada data, fungsi mencetak pesan "TIDAK ADA DATA" untuk memberi tahu pengguna bahwa tidak ada informasi yang tersedia.
+
+2. Fungsi tambah_data()
+
+![image](https://github.com/user-attachments/assets/a9f95c7d-775f-4e5c-8074-81f51005e6b0)
+
+>Fungsi ini digunakan untuk menambahkan data mahasiswa baru ke dalam sistem.
+
+>Pengguna diminta untuk memasukkan NIM, nama, dan nilai untuk tugas, UTS, dan UAS.
+
+>Nilai akhir dihitung berdasarkan bobot yang telah ditentukan (30% untuk tugas, 35% untuk UTS, dan 35% untuk UAS).
+
+>Data mahasiswa disimpan dalam dictionary data_mahasiswa dengan NIM sebagai kunci dan informasi lainnya sebagai nilai dalam bentuk dictionary.
+
+>Setelah data ditambahkan, fungsi mencetak pesan konfirmasi bahwa data berhasil ditambahkan.
+
